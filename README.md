@@ -1,2 +1,2 @@
 # MyRepository
-LearningGIT
+Hey ! This is for tutorial purpose ...
